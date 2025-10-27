@@ -24,7 +24,7 @@ Python · pandas · scikit-learn · matplotlib · numpy
 - `report.py` – Optional: generate best supplier results and missing cost predictions  
 - `tasks.csv`, `suppliers.csv`, `cost.csv.zip` – Original datasets  
 
-## ▶️ How to Run
+## How to Run
 1. Ensure all datasets (task.csv, suppliers.csv, costs.csv.zip) and modules (`data_preparation_1.py`,`eda_2`, `machine_learning_3`) are in the same folder.
 2. Run:  
    ```
